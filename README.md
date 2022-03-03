@@ -1,6 +1,6 @@
 # game 
 ## Project commentary
-  with vue.js and vuetify for the progress bar
+  with vue.js and vuetify for the progress bar and button 
 ## Project setup
 ```
 npm install
