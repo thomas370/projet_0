@@ -1,5 +1,6 @@
-# hack
-
+# game 
+## Project commentary
+  with vue.js and vuetify for the progress bar
 ## Project setup
 ```
 npm install
@@ -9,21 +10,9 @@ npm install
 ```
 npm run serve
 ```
+#### pictures
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![image](https://user-images.githubusercontent.com/61499805/156607874-b4bb6af9-b8b0-4edd-9e69-96969f7c9b0c.png)
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
